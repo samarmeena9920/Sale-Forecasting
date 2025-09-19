@@ -3,6 +3,14 @@
 ## **Project Overview**
 This Power BI project presents an interactive dashboard for analyzing and forecasting sales data of a Superstore. The dashboard provides comprehensive insights into sales performance, profit margins, regional trends, and product-level analysis. Additionally, a forecasting module helps project future sales based on historical trends, supporting strategic business planning.
 
+## 📊 Dashboard Preview
+
+### Sales Dashboard
+![Sales Dashboard](./sales%20dashboard.png)
+
+### Sales Forecast
+![Sales Forecast](./sales%20forecast.png)
+
 ## **Key Features**
 * **Sales Performance Overview:**
 
